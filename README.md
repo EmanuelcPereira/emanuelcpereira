@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**EmanuelcPereira/emanuelcpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Emanuel Pereira. I was working as infrastructure support analist but I decide to become a developer. Now I'm full stack developer in NodeJS, ReactJS and React Native technologies.
 
-Here are some ideas to get you started:
+Currently learning in how to build awesome and responsive front-end interfaces using all possibilities of CSS3 and patters as BEM, SASS and styled-components.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Would you like to find me?
+  <a href="https://in.linkedin.com/in/emanuel-c-pereira" target="_blank">
+    <img align="left" alt="Emanuel | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="https://twitter.com/Emanuelcdpr" target="_blank">
+    <img align="left" alt="Emanuel | Twitter" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Twitter.svg" />
+  </a>
+  <a href="mailto:emanuelcdpr@gmail.com">
+    <img align="left" alt="Emanuel | Gmail" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" />
+  </a>
+
