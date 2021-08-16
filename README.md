@@ -2,7 +2,7 @@
 
 My name is Emanuel Pereira. I was working as infrastructure support analist but I decide to become a developer. Now I'm full stack developer in NodeJS, ReactJS and React Native technologies.
 
-Currently learning in how to build awesome and responsive front-end interfaces using all possibilities of CSS3 and patters as BEM, SASS and styled-components.
+Currently learning in how to master in developing backend APIs using NodeJs and design patterns.
 
 
 ### Would you like to find me?
